@@ -29,7 +29,7 @@ We're Here To Send Our Cool Projects For YouTube Viewers. Yea, Some Of Them Mayb
 
 <h2>⚡ Github Stats</h2>
 
-[![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=TimesDevv&show_icons=true&theme=tokyonight)]
+![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=TimesDevv&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimesDevv&show_icons=true&theme=tokyonight)](https://github.com/TimesDevv)
 
