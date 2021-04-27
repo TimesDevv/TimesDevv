@@ -33,6 +33,6 @@ We're Here To Send Our Cool Projects For YouTube Viewers. Yea, Some Of Them Mayb
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimesDevv&show_icons=true&theme=tokyonight)](https://github.com/TimesDevv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TimesDevv&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TimesDevv&repo=github-readme-stats)
 
 
