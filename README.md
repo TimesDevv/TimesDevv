@@ -29,8 +29,10 @@ We're Here To Send Our Cool Projects For YouTube Viewers. Yea, Some Of Them Mayb
 
 <h2>⚡ Endternvl's Github Stats</h2>
 
-![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=TimesDevv&show_icons=true&theme=merko)
+![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=TimesDevv&show_icons=true&theme=gradient)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimesDevv&show_icons=true&theme=tokyonight)](https://github.com/TimesDevv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TimesDevv&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TimesDevv&repo=github-readme-stats)]
+
+
